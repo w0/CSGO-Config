@@ -1,6 +1,4 @@
 # CSGO-Config
-This is a simple csgo config
+This is a simple csgo config. I believe all the commands are working on the current build of CSGO. If you plan on using this make sure to change the provided crosshairs to your preference.
 
-Edit the provided crosshair configs unless you don't mind mine.
-
-Crosshair isn't set in the autoexec as you can just hit capslock to update it.
+In my config jump is bound to mwheelup and mwheeldown. Delete the lines if you don't want that. Also Capslock toggles the grenade crosshair while pressed. 
